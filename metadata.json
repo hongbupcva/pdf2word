@@ -1,0 +1,7 @@
+{
+  "name": "DocuMorph PDF sang Word AI",
+  "description": "Chuyển đổi PDF văn bản và PDF ảnh/quét sang Microsoft Word (.docx) thông minh với công nghệ AI nhận diện chữ và bố cục",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
